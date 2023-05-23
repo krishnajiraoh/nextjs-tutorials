@@ -6,12 +6,12 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 cd nextjs-blog
 npm run dev
 
-#Next.js
+# Next.js
 - Next.js is a React framework that gives you building blocks to create web applications.
 - Next.js handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application.
 
 <p align='center'>
-    <img src="./.images/nextjs.png height=300">
+    <img src="/.images/nextjs.png height=300">
 </p>
 
 Next.js aims to have best-in-class developer experience and many built-in features, such as:
